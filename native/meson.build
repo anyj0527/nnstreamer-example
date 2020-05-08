@@ -19,3 +19,5 @@ endif
 if have_caffe2
   subdir('example_image_classification_caffe2')
 endif
+
+subdir('example_image_classification_snpe')
